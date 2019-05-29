@@ -38,7 +38,6 @@ http://jsonplaceholder.typicode.com/users
 Valide o JSON schema e http code das respostas.
 
 # Recomendações
-----------
 
 Os itens abaixo não são obrigatórios.
 
@@ -48,7 +47,6 @@ Os itens abaixo não são obrigatórios.
 
 
 # O que vamos avaliar
-----------
 - A estruturação e escrita dos cenários de testes;
 - Os cenários e validações das automações;
 - A utilização de padrões de projetos;
@@ -57,7 +55,6 @@ Os itens abaixo não são obrigatórios.
 
 
 # A apresentação do desafio
-----------
 - Crie um repositório para o projeto em sua conta pessoal no GitHub;
 - Crie um README.md com as instruções para a execução do projeto;
 - Nos envie o link do repositório via Plataforma GUPY por onde recebeu essas instruções.
