@@ -4,7 +4,6 @@ Por se tratar de um desafio para todos os níveis, não se sinta preso em submet
 Os desafios devem ser agrupados em um único projeto.
 
 # Desafio
-----------
 
 O desafio consiste em:
 
